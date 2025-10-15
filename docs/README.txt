@@ -1,6 +1,6 @@
- 🏭 Industrial Data Monitoring Dashboard
+🏭 Industrial Data Monitoring Dashboard
 
-**Developer:** Bashiq Ali    
+Developer: Bashiq Ali    
 
 ---
 📖 Overview
