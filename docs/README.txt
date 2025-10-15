@@ -1,13 +1,11 @@
-# 🏭 Industrial Data Monitoring Dashboard
+ 🏭 Industrial Data Monitoring Dashboard
 
 **Developer:** Bashiq Ali    
-**LinkedIn:** [linkedin.com/in/bashiq-ali-n-142617209](https://linkedin.com/in/bashiq-ali-n-142617209)
 
 ---
-
-## 📖 Overview
-This project simulates an **industrial sensor monitoring system** that tracks machine temperature and pressure in real time.  
-It visualizes live data with **Streamlit** and automatically generates alerts when readings exceed safe thresholds.
+📖 Overview
+This project simulates an industrial sensor monitoring system that tracks machine temperature and pressure in real time.  
+It visualizes live data with Streamlit and automatically generates alerts when readings exceed safe thresholds.
 
 It demonstrates:
 - Technical troubleshooting  
@@ -16,7 +14,7 @@ It demonstrates:
 
 ---
 
-## ⚙️ Features
+⚙️ Features
 - Real-time data simulation  
 - Live dashboard with graphs  
 - Automatic anomaly detection (Temperature > 100 °C, Pressure < 950 hPa)  
@@ -25,23 +23,23 @@ It demonstrates:
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 Python 3 | Streamlit | Pandas | NumPy | Matplotlib
 
 ---
 
-## 🚀 How to Run
+🚀 How to Run
 
-1. **Clone the repository**
+1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR-USERNAME/industrial-data-monitoring-dashboard.git
+   git clone https://github.com/bashiqali111/industrial-data-monitoring-dashboard.git
    cd industrial-data-monitoring-dashboard
 
 2. Clone or Download the Project
 
 If you have Git installed:
 
-git clone https://github.com/YOUR-USERNAME/industrial-data-monitoring-dashboard.git
+git clone https://github.com/bashiqali111/industrial-data-monitoring-dashboard.git
 cd industrial-data-monitoring-dashboard
 
 
